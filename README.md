@@ -1,12 +1,12 @@
 # Abalone-9-18-Imbalanced-Dataset-Case-Study
 
-## A comprehensive guide / case study to handle Imbalanced Classes
+### A comprehensive guide / case study to handle Imbalanced Classes
 
-### Description :
+## Description :
 
 This section describes main characteristics of the abalone9-18 data set and its attributes.
 
-### General information :
+## General information :
 
 #### Type : Imbalanced
 #### Origin : Real world
@@ -18,7 +18,7 @@ This section describes main characteristics of the abalone9-18 data set and its 
 #### %Negative instances : 94.25
 #### Missing values : No
 
-### Attribute description :
+## Attribute description :
 
 #### Sex : {M, F, I} - (Male/Female/Infant)
 #### Length : [0.075, 0.815]
